@@ -81,8 +81,8 @@ Follow these instructions to get a copy of the project up and running on your lo
 
 1.  **Clone the repository:**
     ```sh
-    git clone [https://github.com/](https://github.com/)<YOUR_USERNAME>/Project-Sentimeter.git
-    cd Project-Sentimeter
+    git clone [https://github.com/KhotChaitanya/Sentimeter-A-Real-Time-Sentiment-Analysis-Dashboard.git](https://github.com/KhotChaitanya/Sentimeter-A-Real-Time-Sentiment-Analysis-Dashboard.git)
+    cd Sentimeter-A-Real-Time-Sentiment-Analysis-Dashboard
     ```
 
 2.  **Create and activate a virtual environment (recommended):**
