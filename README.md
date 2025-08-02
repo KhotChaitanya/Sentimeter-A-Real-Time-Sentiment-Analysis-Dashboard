@@ -54,13 +54,13 @@ The project follows a structured 4-tab layout to present the analysis:
 This tab offers the most granular level of analysis, with separate word clouds and tables for positive, negative, and neutral content.
 - **Keyword Clouds:**
    - Positive Keywords:
-     <img width="858" height="490" alt="positive keyword" src="https://github.com/user-attachments/assets/d306ed2f-77b9-4e45-a88e-ea4c44dcb0a5" />
+  <img width="420" height="320" alt="positive keyword" src="https://github.com/user-attachments/assets/d306ed2f-77b9-4e45-a88e-ea4c44dcb0a5" />
 
    - Negative Keywords:
-     <img width="875" height="497" alt="NegativeKeywords" src="https://github.com/user-attachments/assets/b7f5a339-6e1d-4bc4-856f-c289ffe9ccad" />
+  <img width="420" height="320" alt="NegativeKeywords" src="https://github.com/user-attachments/assets/b7f5a339-6e1d-4bc4-856f-c289ffe9ccad" />
 
    - Neutral Keywords :
-     <img width="912" height="512" alt="NeutralKeywords" src="https://github.com/user-attachments/assets/b9b3965b-3d54-45c3-aefe-41eef83e1534" />
+  <img width="420" height="320" alt="NeutralKeywords" src="https://github.com/user-attachments/assets/b9b3965b-3d54-45c3-aefe-41eef83e1534" />
 
 - **Top Sentences by Sentiment:**
    - Most Positive Sentences:
